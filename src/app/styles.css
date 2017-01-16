@@ -1,0 +1,7 @@
+.logo {
+  display: inline-block;
+  width: 64px;
+  height: 64px;
+  background: url('./img/app.svg') no-repeat center center;
+  background-size: 32px 32px;
+}
